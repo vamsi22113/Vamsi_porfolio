@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vamsi_porfolio/static/css/main.f5909e94.css",
-    "main.js": "/Vamsi_porfolio/static/js/main.51b06cd8.js",
+    "main.css": "/Vamsi_porfolio/static/css/main.59f469bf.css",
+    "main.js": "/Vamsi_porfolio/static/js/main.f3557fad.js",
     "static/media/m2.jpg": "/Vamsi_porfolio/static/media/m2.49d83f89fead4bb4b991.jpg",
     "static/media/RESUME.pdf": "/Vamsi_porfolio/static/media/RESUME.fc605238910f4c36f2f4.pdf",
     "static/media/m3.jpg": "/Vamsi_porfolio/static/media/m3.2fa980abb6bd9836eb2f.jpg",
     "index.html": "/Vamsi_porfolio/index.html",
-    "main.f5909e94.css.map": "/Vamsi_porfolio/static/css/main.f5909e94.css.map",
-    "main.51b06cd8.js.map": "/Vamsi_porfolio/static/js/main.51b06cd8.js.map"
+    "main.59f469bf.css.map": "/Vamsi_porfolio/static/css/main.59f469bf.css.map",
+    "main.f3557fad.js.map": "/Vamsi_porfolio/static/js/main.f3557fad.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5909e94.css",
-    "static/js/main.51b06cd8.js"
+    "static/css/main.59f469bf.css",
+    "static/js/main.f3557fad.js"
   ]
 }
